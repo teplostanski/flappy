@@ -1,0 +1,10 @@
+body {
+  background:#161925;
+  margin: auto;
+}
+
+#canvas {
+  margin:auto;
+  display:block;
+  cursor: pointer;
+}
